@@ -1,3 +1,8 @@
+# Read Me First
+The following was discovered as part of building this project:
+
+* The original package name 'com.laura.lauras-lab' is invalid and this project uses 'com.laura.lauraslab' instead.
+
 # Getting Started
 
 ### Reference Documentation
